@@ -29,10 +29,9 @@ Takes a .csv file of a signal, and plots the gradient and Fourier transformation
 1. Run the `main.py` script:
 
     ```shell
-    python main.py
+    python main.py target_file.csv
     ```
-
-2. Follow the on-screen instructions to interact with the program.
+    Where `target_file.csv` is replaced with the csv file you want to look at.
 
 ## License
 
